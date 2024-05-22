@@ -1,1 +1,1 @@
-# Report-for-Data-Optimizer
+This Power BI dashboard provides a comprehensive analysis of job postings for data optimizer roles. It includes key performance indicators (KPIs) and various visualizations to help understand job market trends and requirements
